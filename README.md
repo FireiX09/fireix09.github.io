@@ -1,5 +1,5 @@
 <div style="text align: center;">
-# Vítejte na mé stránce
+<h1><b>Vítejte na mé stránce</b></h1>
 <h1>Gryč Jiří</h1>
   </div>
 
